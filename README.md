@@ -2,7 +2,7 @@
 
 A simulated trading environment where an AI reads live market conditions and gives a real-time trading signal — powered by **FinBERT-GF**, a hybrid deep learning model built for my MS thesis on ECB monetary policy tone classification. No real money is involved; this is a paper-trading demo.
 
-![Demo](https://youtu.be/DUH1h3EaXYc)
+[![Watch the video](https://img.youtube.com/vi/DUH1h3EaXYc/0.jpg)](https://youtu.be/DUH1h3EaXYc)
 
 ## What this is
 
